@@ -1,0 +1,19 @@
+{
+    "javascript": {
+        "awscloudformation": {
+            "AuthRoleName": "aws-notetaker-javascript-20190506091412-authRole",
+            "UnauthRoleArn": "arn:aws:iam::697500346833:role/aws-notetaker-javascript-20190506091412-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::697500346833:role/aws-notetaker-javascript-20190506091412-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "aws-notetaker-javascript-20190506091412-deployment",
+            "UnauthRoleName": "aws-notetaker-javascript-20190506091412-unauthRole",
+            "StackName": "aws-notetaker-javascript-20190506091412",
+            "StackId": "arn:aws:cloudformation:us-west-2:697500346833:stack/aws-notetaker-javascript-20190506091412/fcb69bf0-7019-11e9-b1b7-0242fa89e25c"
+        },
+        "categories": {
+            "auth": {
+                "cognito1f190bc2": {}
+            }
+        }
+    }
+}
